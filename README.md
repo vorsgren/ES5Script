@@ -1,4 +1,4 @@
-## Scripts for installing GOG version of game on Linuxi
+## Scripts for installing GOG version of game on Linux
 
 Installs Game from the GOG files, along with various modding tools, etc
 
@@ -33,3 +33,5 @@ Make install.sh install Dyndolod/Texgen, Link to Mo2
 Make an optional feature where install.sh optionally installs all mods in a folder. (make it report if something went wrong with some, etc.)
 
 See if you can make Mo2 setup so it stops complaining about not being connected to Nexusmods site.
+
+Make a script that checks if esync is enabled - and warn if it is not.
